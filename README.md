@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @arfianamaulina
-- 👀 I’m interested in Marketing Communication
-- 🌱 I’m currently learning creating Front-End and Data Science
-- 💞️ I’m looking to collaborate on Digital Marketing
+- 👋 Hi, I’m @arfianamaulinaa
+- 👀 I’m working in Marketing Communication field
+- 🌱 I’m currently learning any language in Coding
+- 💞️ I’m looking to collaborate on Digital Marketing and Projects
 - 📫 How to reach me hello@arfianamaulina.com or linkedin.com/in/arfianamaulina
 
 <!---
